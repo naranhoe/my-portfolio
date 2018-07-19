@@ -3,28 +3,28 @@ const Portfolio = function() {
 		var words = [
 			{
 				text: "python",
-				weight: 15
-			}, {
-				text: "Django",
-				weight: 13
-			}, {
-				text: "ruby",
-				weight: 11
-			}, {
-				text: "ruby on rails",
-				weight: 10
-			}, {
-				text: "TDD",
-				weight: 9
-			}, {
-				text: "javascript",
 				weight: 8
 			}, {
+				text: "Django",
+				weight: 9
+			}, {
+				text: "ruby",
+				weight: 14
+			}, {
+				text: "ruby on rails",
+				weight: 15
+			}, {
+				text: "TDD",
+				weight: 13
+			}, {
+				text: "javascript",
+				weight: 12
+			}, {
 				text: "jquery",
-				weight: 7
+				weight: 10
 			}, {
 				text: "selenium",
-				weight: 6
+				weight: 11
 			}
 		];
 		return words;
